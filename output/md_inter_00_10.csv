@@ -1,0 +1,326 @@
+stname,ctyname,county,label,tot.pop,year.label
+Maryland,Maryland,000,estimatesbase2000,5296647,2000
+Maryland,Allegany County,001,estimatesbase2000,74909,2000
+Maryland,Anne Arundel County,003,estimatesbase2000,489677,2000
+Maryland,Baltimore County,005,estimatesbase2000,753947,2000
+Maryland,Calvert County,009,estimatesbase2000,74556,2000
+Maryland,Caroline County,011,estimatesbase2000,29735,2000
+Maryland,Carroll County,013,estimatesbase2000,150881,2000
+Maryland,Cecil County,015,estimatesbase2000,85964,2000
+Maryland,Charles County,017,estimatesbase2000,120524,2000
+Maryland,Dorchester County,019,estimatesbase2000,30671,2000
+Maryland,Frederick County,021,estimatesbase2000,195277,2000
+Maryland,Garrett County,023,estimatesbase2000,29852,2000
+Maryland,Harford County,025,estimatesbase2000,218914,2000
+Maryland,Howard County,027,estimatesbase2000,247876,2000
+Maryland,Kent County,029,estimatesbase2000,19201,2000
+Maryland,Montgomery County,031,estimatesbase2000,873874,2000
+Maryland,Prince George's County,033,estimatesbase2000,801091,2000
+Maryland,Queen Anne's County,035,estimatesbase2000,40580,2000
+Maryland,St. Mary's County,037,estimatesbase2000,86196,2000
+Maryland,Somerset County,039,estimatesbase2000,24746,2000
+Maryland,Talbot County,041,estimatesbase2000,33806,2000
+Maryland,Washington County,043,estimatesbase2000,131911,2000
+Maryland,Wicomico County,045,estimatesbase2000,84638,2000
+Maryland,Worcester County,047,estimatesbase2000,46559,2000
+Maryland,Baltimore city,510,estimatesbase2000,651262,2000
+Maryland,Maryland,000,popestimate2000,5311034,2000
+Maryland,Allegany County,001,popestimate2000,74804,2000
+Maryland,Anne Arundel County,003,popestimate2000,491670,2000
+Maryland,Baltimore County,005,popestimate2000,755598,2000
+Maryland,Calvert County,009,popestimate2000,75118,2000
+Maryland,Caroline County,011,popestimate2000,29773,2000
+Maryland,Carroll County,013,popestimate2000,151454,2000
+Maryland,Cecil County,015,popestimate2000,86448,2000
+Maryland,Charles County,017,popestimate2000,121229,2000
+Maryland,Dorchester County,019,popestimate2000,30581,2000
+Maryland,Frederick County,021,popestimate2000,196563,2000
+Maryland,Garrett County,023,popestimate2000,29838,2000
+Maryland,Harford County,025,popestimate2000,219797,2000
+Maryland,Howard County,027,popestimate2000,249590,2000
+Maryland,Kent County,029,popestimate2000,19252,2000
+Maryland,Montgomery County,031,popestimate2000,877478,2000
+Maryland,Prince George's County,033,popestimate2000,803111,2000
+Maryland,Queen Anne's County,035,popestimate2000,40763,2000
+Maryland,St. Mary's County,037,popestimate2000,86498,2000
+Maryland,Somerset County,039,popestimate2000,24710,2000
+Maryland,Talbot County,041,popestimate2000,33895,2000
+Maryland,Washington County,043,popestimate2000,132051,2000
+Maryland,Wicomico County,045,popestimate2000,84899,2000
+Maryland,Worcester County,047,popestimate2000,46828,2000
+Maryland,Baltimore city,510,popestimate2000,649086,2000
+Maryland,Maryland,000,popestimate2001,5374691,2001
+Maryland,Allegany County,001,popestimate2001,74525,2001
+Maryland,Anne Arundel County,003,popestimate2001,498559,2001
+Maryland,Baltimore County,005,popestimate2001,762925,2001
+Maryland,Calvert County,009,popestimate2001,77218,2001
+Maryland,Caroline County,011,popestimate2001,29814,2001
+Maryland,Carroll County,013,popestimate2001,154037,2001
+Maryland,Cecil County,015,popestimate2001,88228,2001
+Maryland,Charles County,017,popestimate2001,124745,2001
+Maryland,Dorchester County,019,popestimate2001,30647,2001
+Maryland,Frederick County,021,popestimate2001,202315,2001
+Maryland,Garrett County,023,popestimate2001,29812,2001
+Maryland,Harford County,025,popestimate2001,222753,2001
+Maryland,Howard County,027,popestimate2001,255211,2001
+Maryland,Kent County,029,popestimate2001,19330,2001
+Maryland,Montgomery County,031,popestimate2001,891764,2001
+Maryland,Prince George's County,033,popestimate2001,817360,2001
+Maryland,Queen Anne's County,035,popestimate2001,41253,2001
+Maryland,St. Mary's County,037,popestimate2001,87455,2001
+Maryland,Somerset County,039,popestimate2001,25157,2001
+Maryland,Talbot County,041,popestimate2001,34231,2001
+Maryland,Washington County,043,popestimate2001,133093,2001
+Maryland,Wicomico County,045,popestimate2001,85637,2001
+Maryland,Worcester County,047,popestimate2001,47889,2001
+Maryland,Baltimore city,510,popestimate2001,640733,2001
+Maryland,Maryland,000,popestimate2002,5440389,2002
+Maryland,Allegany County,001,popestimate2002,74204,2002
+Maryland,Anne Arundel County,003,popestimate2002,504884,2002
+Maryland,Baltimore County,005,popestimate2002,770147,2002
+Maryland,Calvert County,009,popestimate2002,80153,2002
+Maryland,Caroline County,011,popestimate2002,30054,2002
+Maryland,Carroll County,013,popestimate2002,157930,2002
+Maryland,Cecil County,015,popestimate2002,90061,2002
+Maryland,Charles County,017,popestimate2002,128079,2002
+Maryland,Dorchester County,019,popestimate2002,30526,2002
+Maryland,Frederick County,021,popestimate2002,209194,2002
+Maryland,Garrett County,023,popestimate2002,29987,2002
+Maryland,Harford County,025,popestimate2002,227369,2002
+Maryland,Howard County,027,popestimate2002,259532,2002
+Maryland,Kent County,029,popestimate2002,19443,2002
+Maryland,Montgomery County,031,popestimate2002,903140,2002
+Maryland,Prince George's County,033,popestimate2002,828893,2002
+Maryland,Queen Anne's County,035,popestimate2002,42524,2002
+Maryland,St. Mary's County,037,popestimate2002,89819,2002
+Maryland,Somerset County,039,popestimate2002,25445,2002
+Maryland,Talbot County,041,popestimate2002,34628,2002
+Maryland,Washington County,043,popestimate2002,134831,2002
+Maryland,Wicomico County,045,popestimate2002,86679,2002
+Maryland,Worcester County,047,popestimate2002,48752,2002
+Maryland,Baltimore city,510,popestimate2002,634115,2002
+Maryland,Maryland,000,popestimate2003,5496269,2003
+Maryland,Allegany County,001,popestimate2003,74076,2003
+Maryland,Anne Arundel County,003,popestimate2003,507769,2003
+Maryland,Baltimore County,005,popestimate2003,777756,2003
+Maryland,Calvert County,009,popestimate2003,83007,2003
+Maryland,Caroline County,011,popestimate2003,30553,2003
+Maryland,Carroll County,013,popestimate2003,161389,2003
+Maryland,Cecil County,015,popestimate2003,92444,2003
+Maryland,Charles County,017,popestimate2003,131942,2003
+Maryland,Dorchester County,019,popestimate2003,30628,2003
+Maryland,Frederick County,021,popestimate2003,213827,2003
+Maryland,Garrett County,023,popestimate2003,30182,2003
+Maryland,Harford County,025,popestimate2003,231411,2003
+Maryland,Howard County,027,popestimate2003,263186,2003
+Maryland,Kent County,029,popestimate2003,19505,2003
+Maryland,Montgomery County,031,popestimate2003,910498,2003
+Maryland,Prince George's County,033,popestimate2003,837648,2003
+Maryland,Queen Anne's County,035,popestimate2003,43688,2003
+Maryland,St. Mary's County,037,popestimate2003,92333,2003
+Maryland,Somerset County,039,popestimate2003,25541,2003
+Maryland,Talbot County,041,popestimate2003,34994,2003
+Maryland,Washington County,043,popestimate2003,136872,2003
+Maryland,Wicomico County,045,popestimate2003,88463,2003
+Maryland,Worcester County,047,popestimate2003,49524,2003
+Maryland,Baltimore city,510,popestimate2003,629033,2003
+Maryland,Maryland,000,popestimate2004,5546935,2004
+Maryland,Allegany County,001,popestimate2004,74408,2004
+Maryland,Anne Arundel County,003,popestimate2004,513259,2004
+Maryland,Baltimore County,005,popestimate2004,784371,2004
+Maryland,Calvert County,009,popestimate2004,84928,2004
+Maryland,Caroline County,011,popestimate2004,30653,2004
+Maryland,Carroll County,013,popestimate2004,163915,2004
+Maryland,Cecil County,015,popestimate2004,94809,2004
+Maryland,Charles County,017,popestimate2004,135601,2004
+Maryland,Dorchester County,019,popestimate2004,31086,2004
+Maryland,Frederick County,021,popestimate2004,217776,2004
+Maryland,Garrett County,023,popestimate2004,30147,2004
+Maryland,Harford County,025,popestimate2004,234849,2004
+Maryland,Howard County,027,popestimate2004,265919,2004
+Maryland,Kent County,029,popestimate2004,19513,2004
+Maryland,Montgomery County,031,popestimate2004,914991,2004
+Maryland,Prince George's County,033,popestimate2004,845950,2004
+Maryland,Queen Anne's County,035,popestimate2004,44411,2004
+Maryland,St. Mary's County,037,popestimate2004,94900,2004
+Maryland,Somerset County,039,popestimate2004,25807,2004
+Maryland,Talbot County,041,popestimate2004,35793,2004
+Maryland,Washington County,043,popestimate2004,139423,2004
+Maryland,Wicomico County,045,popestimate2004,90210,2004
+Maryland,Worcester County,047,popestimate2004,49994,2004
+Maryland,Baltimore city,510,popestimate2004,624222,2004
+Maryland,Maryland,000,popestimate2005,5592379,2005
+Maryland,Allegany County,001,popestimate2005,73979,2005
+Maryland,Anne Arundel County,003,popestimate2005,516171,2005
+Maryland,Baltimore County,005,popestimate2005,789110,2005
+Maryland,Calvert County,009,popestimate2005,86294,2005
+Maryland,Caroline County,011,popestimate2005,31416,2005
+Maryland,Carroll County,013,popestimate2005,165519,2005
+Maryland,Cecil County,015,popestimate2005,96836,2005
+Maryland,Charles County,017,popestimate2005,138560,2005
+Maryland,Dorchester County,019,popestimate2005,31422,2005
+Maryland,Frederick County,021,popestimate2005,221201,2005
+Maryland,Garrett County,023,popestimate2005,30083,2005
+Maryland,Harford County,025,popestimate2005,238402,2005
+Maryland,Howard County,027,popestimate2005,268590,2005
+Maryland,Kent County,029,popestimate2005,19695,2005
+Maryland,Montgomery County,031,popestimate2005,921531,2005
+Maryland,Prince George's County,033,popestimate2005,853271,2005
+Maryland,Queen Anne's County,035,popestimate2005,44879,2005
+Maryland,St. Mary's County,037,popestimate2005,96871,2005
+Maryland,Somerset County,039,popestimate2005,25793,2005
+Maryland,Talbot County,041,popestimate2005,36423,2005
+Maryland,Washington County,043,popestimate2005,142084,2005
+Maryland,Wicomico County,045,popestimate2005,92508,2005
+Maryland,Worcester County,047,popestimate2005,50181,2005
+Maryland,Baltimore city,510,popestimate2005,621560,2005
+Maryland,Maryland,000,popestimate2006,5627367,2006
+Maryland,Allegany County,001,popestimate2006,73980,2006
+Maryland,Anne Arundel County,003,popestimate2006,517698,2006
+Maryland,Baltimore County,005,popestimate2006,793733,2006
+Maryland,Calvert County,009,popestimate2006,87043,2006
+Maryland,Caroline County,011,popestimate2006,32214,2006
+Maryland,Carroll County,013,popestimate2006,166950,2006
+Maryland,Cecil County,015,popestimate2006,98821,2006
+Maryland,Charles County,017,popestimate2006,141164,2006
+Maryland,Dorchester County,019,popestimate2006,31677,2006
+Maryland,Frederick County,021,popestimate2006,224211,2006
+Maryland,Garrett County,023,popestimate2006,30147,2006
+Maryland,Harford County,025,popestimate2006,241163,2006
+Maryland,Howard County,027,popestimate2006,271793,2006
+Maryland,Kent County,029,popestimate2006,19786,2006
+Maryland,Montgomery County,031,popestimate2006,926492,2006
+Maryland,Prince George's County,033,popestimate2006,852097,2006
+Maryland,Queen Anne's County,035,popestimate2006,45716,2006
+Maryland,St. Mary's County,037,popestimate2006,98849,2006
+Maryland,Somerset County,039,popestimate2006,26139,2006
+Maryland,Talbot County,041,popestimate2006,37000,2006
+Maryland,Washington County,043,popestimate2006,144286,2006
+Maryland,Wicomico County,045,popestimate2006,94621,2006
+Maryland,Worcester County,047,popestimate2006,50678,2006
+Maryland,Baltimore city,510,popestimate2006,621109,2006
+Maryland,Maryland,000,popestimate2007,5653408,2007
+Maryland,Allegany County,001,popestimate2007,74449,2007
+Maryland,Anne Arundel County,003,popestimate2007,520503,2007
+Maryland,Baltimore County,005,popestimate2007,796073,2007
+Maryland,Calvert County,009,popestimate2007,87445,2007
+Maryland,Caroline County,011,popestimate2007,32720,2007
+Maryland,Carroll County,013,popestimate2007,167390,2007
+Maryland,Cecil County,015,popestimate2007,99628,2007
+Maryland,Charles County,017,popestimate2007,142721,2007
+Maryland,Dorchester County,019,popestimate2007,32172,2007
+Maryland,Frederick County,021,popestimate2007,227463,2007
+Maryland,Garrett County,023,popestimate2007,30148,2007
+Maryland,Harford County,025,popestimate2007,241634,2007
+Maryland,Howard County,027,popestimate2007,275196,2007
+Maryland,Kent County,029,popestimate2007,19801,2007
+Maryland,Montgomery County,031,popestimate2007,931694,2007
+Maryland,Prince George's County,033,popestimate2007,849916,2007
+Maryland,Queen Anne's County,035,popestimate2007,46517,2007
+Maryland,St. Mary's County,037,popestimate2007,100599,2007
+Maryland,Somerset County,039,popestimate2007,26534,2007
+Maryland,Talbot County,041,popestimate2007,37167,2007
+Maryland,Washington County,043,popestimate2007,146173,2007
+Maryland,Wicomico County,045,popestimate2007,96110,2007
+Maryland,Worcester County,047,popestimate2007,51049,2007
+Maryland,Baltimore city,510,popestimate2007,620306,2007
+Maryland,Maryland,000,popestimate2008,5684965,2008
+Maryland,Allegany County,001,popestimate2008,74638,2008
+Maryland,Anne Arundel County,003,popestimate2008,525304,2008
+Maryland,Baltimore County,005,popestimate2008,798651,2008
+Maryland,Calvert County,009,popestimate2008,87788,2008
+Maryland,Caroline County,011,popestimate2008,32983,2008
+Maryland,Carroll County,013,popestimate2008,167433,2008
+Maryland,Cecil County,015,popestimate2008,100232,2008
+Maryland,Charles County,017,popestimate2008,143783,2008
+Maryland,Dorchester County,019,popestimate2008,32466,2008
+Maryland,Frederick County,021,popestimate2008,229286,2008
+Maryland,Garrett County,023,popestimate2008,30222,2008
+Maryland,Harford County,025,popestimate2008,242779,2008
+Maryland,Howard County,027,popestimate2008,278405,2008
+Maryland,Kent County,029,popestimate2008,20150,2008
+Maryland,Montgomery County,031,popestimate2008,942748,2008
+Maryland,Prince George's County,033,popestimate2008,850167,2008
+Maryland,Queen Anne's County,035,popestimate2008,47063,2008
+Maryland,St. Mary's County,037,popestimate2008,101921,2008
+Maryland,Somerset County,039,popestimate2008,26474,2008
+Maryland,Talbot County,041,popestimate2008,37307,2008
+Maryland,Washington County,043,popestimate2008,146674,2008
+Maryland,Wicomico County,045,popestimate2008,97111,2008
+Maryland,Worcester County,047,popestimate2008,51196,2008
+Maryland,Baltimore city,510,popestimate2008,620184,2008
+Maryland,Maryland,000,popestimate2009,5730388,2009
+Maryland,Allegany County,001,popestimate2009,75101,2009
+Maryland,Anne Arundel County,003,popestimate2009,532395,2009
+Maryland,Baltimore County,005,popestimate2009,801808,2009
+Maryland,Calvert County,009,popestimate2009,88244,2009
+Maryland,Caroline County,011,popestimate2009,33013,2009
+Maryland,Carroll County,013,popestimate2009,167028,2009
+Maryland,Cecil County,015,popestimate2009,100816,2009
+Maryland,Charles County,017,popestimate2009,144804,2009
+Maryland,Dorchester County,019,popestimate2009,32470,2009
+Maryland,Frederick County,021,popestimate2009,230942,2009
+Maryland,Garrett County,023,popestimate2009,30145,2009
+Maryland,Harford County,025,popestimate2009,243685,2009
+Maryland,Howard County,027,popestimate2009,283061,2009
+Maryland,Kent County,029,popestimate2009,20132,2009
+Maryland,Montgomery County,031,popestimate2009,959013,2009
+Maryland,Prince George's County,033,popestimate2009,856161,2009
+Maryland,Queen Anne's County,035,popestimate2009,47532,2009
+Maryland,St. Mary's County,037,popestimate2009,103273,2009
+Maryland,Somerset County,039,popestimate2009,26425,2009
+Maryland,Talbot County,041,popestimate2009,37496,2009
+Maryland,Washington County,043,popestimate2009,146953,2009
+Maryland,Wicomico County,045,popestimate2009,98069,2009
+Maryland,Worcester County,047,popestimate2009,51313,2009
+Maryland,Baltimore city,510,popestimate2009,620509,2009
+Maryland,Maryland,000,census2010pop,5773552,2010
+Maryland,Allegany County,001,census2010pop,75087,2010
+Maryland,Anne Arundel County,003,census2010pop,537656,2010
+Maryland,Baltimore County,005,census2010pop,805029,2010
+Maryland,Calvert County,009,census2010pop,88737,2010
+Maryland,Caroline County,011,census2010pop,33066,2010
+Maryland,Carroll County,013,census2010pop,167134,2010
+Maryland,Cecil County,015,census2010pop,101108,2010
+Maryland,Charles County,017,census2010pop,146551,2010
+Maryland,Dorchester County,019,census2010pop,32618,2010
+Maryland,Frederick County,021,census2010pop,233385,2010
+Maryland,Garrett County,023,census2010pop,30097,2010
+Maryland,Harford County,025,census2010pop,244826,2010
+Maryland,Howard County,027,census2010pop,287085,2010
+Maryland,Kent County,029,census2010pop,20197,2010
+Maryland,Montgomery County,031,census2010pop,971777,2010
+Maryland,Prince George's County,033,census2010pop,863420,2010
+Maryland,Queen Anne's County,035,census2010pop,47798,2010
+Maryland,St. Mary's County,037,census2010pop,105151,2010
+Maryland,Somerset County,039,census2010pop,26470,2010
+Maryland,Talbot County,041,census2010pop,37782,2010
+Maryland,Washington County,043,census2010pop,147430,2010
+Maryland,Wicomico County,045,census2010pop,98733,2010
+Maryland,Worcester County,047,census2010pop,51454,2010
+Maryland,Baltimore city,510,census2010pop,620961,2010
+Maryland,Maryland,000,popestimate2010,5785982,2010
+Maryland,Allegany County,001,popestimate2010,75021,2010
+Maryland,Anne Arundel County,003,popestimate2010,539198,2010
+Maryland,Baltimore County,005,popestimate2010,805709,2010
+Maryland,Calvert County,009,popestimate2010,88936,2010
+Maryland,Caroline County,011,popestimate2010,33093,2010
+Maryland,Carroll County,013,popestimate2010,167241,2010
+Maryland,Cecil County,015,popestimate2010,101199,2010
+Maryland,Charles County,017,popestimate2010,147086,2010
+Maryland,Dorchester County,019,popestimate2010,32650,2010
+Maryland,Frederick County,021,popestimate2010,234122,2010
+Maryland,Garrett County,023,popestimate2010,30063,2010
+Maryland,Harford County,025,popestimate2010,245177,2010
+Maryland,Howard County,027,popestimate2010,288376,2010
+Maryland,Kent County,029,popestimate2010,20222,2010
+Maryland,Montgomery County,031,popestimate2010,976203,2010
+Maryland,Prince George's County,033,popestimate2010,865271,2010
+Maryland,Queen Anne's County,035,popestimate2010,47899,2010
+Maryland,St. Mary's County,037,popestimate2010,105786,2010
+Maryland,Somerset County,039,popestimate2010,26481,2010
+Maryland,Talbot County,041,popestimate2010,37834,2010
+Maryland,Washington County,043,popestimate2010,147558,2010
+Maryland,Wicomico County,045,popestimate2010,98843,2010
+Maryland,Worcester County,047,popestimate2010,51431,2010
+Maryland,Baltimore city,510,popestimate2010,620583,2010
