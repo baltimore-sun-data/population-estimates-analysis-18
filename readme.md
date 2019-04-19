@@ -10,7 +10,7 @@ For the 2010-2018 summary tables from the Maryland State Department of Planning,
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
 
-The Baltimore Sun conducted an analysis of county-level population estimates for the state of Maryland, with a focus on the city of Baltimore for a story published April 18, 2019 titled ["Baltimore sees biggest population loss in single year since 2001, census estimates show"](https://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-census-estimate-population-20190416-story.html) (print headline: "People continue to leave Baltimore").
+The Baltimore Sun conducted an analysis of county-level population estimates for the state of Maryland — with a focus on the city of Baltimore — for a story published April 18, 2019 titled ["Baltimore sees biggest population loss in single year since 2001, census estimates show"](https://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-census-estimate-population-20190416-story.html) (print headline: "People continue to leave Baltimore").
 
 The Sun's findings and analysis are available in the "analysis" notebook in this repository: [`02_analysis.ipynb`](https://nbviewer.jupyter.org/github/baltimore-sun-data/population-estimates-analysis-18/blob/master/02_analysis.ipynb). The pre-processing code is in the "processing" notebook in this repository: [`01_processing.ipynb`](https://nbviewer.jupyter.org/github/baltimore-sun-data/population-estimates-analysis-18/blob/master/01_processing.ipynb). 
 
